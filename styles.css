@@ -1,0 +1,27 @@
+body {
+    background: #ebffac;
+}
+
+.container-list {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
+.tittle {
+    text-align: center;
+}
+
+.tarea {
+    color: gray;
+    font-size: 15px;
+}
+
+#lista {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.me {
+    color: gray;
+}
